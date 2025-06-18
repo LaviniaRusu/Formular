@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ana Popescu",
+      "age": 25,
+      "email": "ana@example.com"
+    },
+    {
+      "id": 2,
+      "name": "George Ionescu",
+      "age": 30,
+      "email": "george@example.com"
+    }
+  ]
+}
